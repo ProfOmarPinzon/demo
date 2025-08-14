@@ -1,4 +1,29 @@
 Aquí tienes un archivo `guia-etiquetas-markdown.md` que puedes usar como referencia rápida para aplicar etiquetas (sintaxis) en un documento Markdown:
+# 📌 Guía rápida de etiquetas en Markdown
+
+| Columna 1 | Columna 2 | Columna 3 |
+|-----------|-----------|-----------|
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato A    | Dato B    | Dato C    |
+
+
+- [x] Tarea completada
+- [ ] Tarea pendiente
+
+```python
+# Ejemplo básico en Python
+def saludar(nombre):
+    """Función que imprime un saludo personalizado"""
+    print(f"Hola, {nombre}!")
+
+# Uso de la función
+saludar("Omar")
+ruby
+Copiar
+Editar
+
+```
+
 
 ````markdown
 # 📌 Guía rápida de etiquetas en Markdown
